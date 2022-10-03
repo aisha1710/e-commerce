@@ -27,6 +27,12 @@ Internet retail, also known as **e-commerce**, is the largest sector of the elec
 
 E-commerce back end allows you to successfully Get, create, update, and delete data in the database.
 
+#### Technologies used include:
+
+- NodeJS
+- MySQL2
+- Express.js
+
 ## Installation
 
 Clone the repository and run command npm install on terminal.
@@ -38,7 +44,16 @@ Clone the repository and run command npm install on terminal.
 - Seed database using `node` command
 - Start server with `nodemon` command
 
+### Link
+
 link to demonstration: https://drive.google.com/file/d/1yznAut3GGsOM7T8Nfjv6btRIRqcazx3s/view
+
+### Snippets of code and postman
+
+![screenshot of code](</assets/Screenshot (4).png>)
+![screenshot of code](</assets/Screenshot (5).png>)
+![screenshot of postman](</assets/Screenshot (6).png>)
+![screenshot of postman](</assets/Screenshot (7).png>)
 
 ## Contributing
 
